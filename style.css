@@ -40,7 +40,9 @@ body {
     border-radius: 10px 10px 0 0;
  
 }
-
+picture img{
+vertical-align:top;
+}
 
 @media (min-width:768px) {
     .image-container {
